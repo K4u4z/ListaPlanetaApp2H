@@ -19,13 +19,13 @@ public class MainActivity extends AppCompatActivity {
     ListView listView;
     //Criar os arrays que serão inseridos na listView
 
-    String nomePlanetas[] = {"Jupiter", "Lua", "Marte", "Mercurio",
-            "Netuno", "Plutão", "Saturno", "Sol", "Terra", "Urano", "Venus"};
+    String nomePlanetas[] = {"Goku", "Subaru", "L", "Laxus",
+            "Panda", "Ryo", "Zoro", "Minato", "Gaara", "Ban", "Guy"};
 
-    int imgPlanetas[] = {R.drawable.jupiter, R.drawable.lua,
-            R.drawable.marte, R.drawable.mercurio, R.drawable.netuno,
-            R.drawable.plutao, R.drawable.saturno, R.drawable.sol,
-            R.drawable.terra, R.drawable.urano, R.drawable.venus};
+    int imgPlanetas[] = {R.drawable.goku, R.drawable.subaru,
+            R.drawable.l, R.drawable.laxus, R.drawable.panda,
+            R.drawable.ryo, R.drawable.zoro, R.drawable.minato,
+            R.drawable.gaara, R.drawable.ban, R.drawable.guy};
 
 
     @Override
